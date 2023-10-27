@@ -1,0 +1,8 @@
+crear una carpeta comando "mkdir duplicate_products"
+ingresar a la carpeta comando "cd duplicate_products"
+crear entorno virtual comando "python -m venv venv"
+activar entorno virtual comando "venv\Scripts\activate"
+instalar dependencias comando "pip install -r requirements.txt"
+ejecutar codigo comando "python products.py"
+
+
