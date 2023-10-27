@@ -1,4 +1,4 @@
-crear una carpeta comando "mkdir duplicate_products"
+clonar repositorio comando "git clone https://github.com/TechNorthem1/duplicate_products.git"
 ingresar a la carpeta comando "cd duplicate_products"
 crear entorno virtual comando "python -m venv venv"
 activar entorno virtual comando "venv\Scripts\activate"
